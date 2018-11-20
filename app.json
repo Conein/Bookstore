@@ -1,0 +1,26 @@
+{
+  "id": "482e335f-d57c-461d-a040-8b241e697c39",
+  "name": "Bookstore",
+  "publisher": "get&use Academy GmbH",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0",
+  "features": [
+    "TranslationFile"
+  ]
+}
